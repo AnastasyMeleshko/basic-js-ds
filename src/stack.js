@@ -35,7 +35,7 @@ class Stack {
     return this.stack[this.stack.length -1];
   }
 }
-git
+
 module.exports = {
   Stack
 };
